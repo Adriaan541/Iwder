@@ -1,3 +1,3 @@
 # Iwder
 
-Showcased at: https://iwder-3a7e9.web.app/webshop.html
+Showcased at: https://iwder-3a7e9.web.app
